@@ -2,13 +2,6 @@
 	<head>
 
 <meta charset="UTF-8"/>
-<style>
-	
-ul{
-list-style: none;
-}
-
-</style>
 
 </head>
 <body>
@@ -24,9 +17,10 @@ list-style: none;
 
 <ul>
 <li>Necessário Maven</li>
-<li>Necessário java versão 1.8.0 acima</li>
+<li>Necessário java versão 1.8.0 acima.</li>
 <li>Spring STS caso queira editar e executar pela IDE, (recomendado para fins de editação ou mudanças).</li>
-<li>Porta 8064 acessível</li>
+<li>Porta 8064 acessível para poder utilizar caso execute.</li>
+<li>Caso utilize internamente o mesmo resgatará o IP interno.</li>
 </ul>
 
 <br>
