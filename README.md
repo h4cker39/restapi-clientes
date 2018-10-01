@@ -1,8 +1,15 @@
 <html>
-<head>
-<meta charset="UTF-8"/>
+	<head>
 
 
+		<meta charset="UTF-8"/>
+<style>
+	
+ul {
+  list-style: none;
+}
+
+</style>
 
 </head>
 <body>
@@ -20,6 +27,7 @@
 <li>Necessário Maven</li>
 <li>Necessário java versão 1.8.0 acima</li>
 <li>Spring STS caso queira editar e executar pela IDE, (recomendado para fins de editação ou mudanças).</li>
+<li>Porta 8064 acessível</li>
 </ul>
 
 <br>
@@ -68,6 +76,33 @@
 
 <p>Para fins de teste pode utilizar-se também O POSTMAN, que faz a integração rápida para identação e melhor visualização para requestes, responses em JSON .</p>
 
+
+
+
+<h3>Exemplo</h3>
+<hr>
+<br>
+<br>
+
+  {
+        "id": "3003334948847",
+        "name": "Joãozinho Da Silva",
+        "idade": 28,
+        "current_weather": "\"Showers\"",
+        "ip": {
+            "status": "success",
+            "data": {
+                "ipv4": "0:0:0:0:0:0:0:1",
+                "continent_name": "Oceania",
+                "country_name": "Australia",
+                "subdivision_1_name": "Victoria",
+                "subdivision_2_name": null,
+                "city_name": "Research",
+                "latitude": "-37.70000",
+                "longitude": "145.18330"
+            }
+        }
+    }
 
 <h3>Funcionalidades</h3> 
 <hr>
