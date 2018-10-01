@@ -11,8 +11,8 @@ ul {
 
 </style>
 
-	</head>
-	<body>
+</head>
+<body>
 
 
 <h2>REST API em Java</h2>
@@ -24,14 +24,14 @@ ul {
 <hr>
 
 <ul>
-	<li>Necessário Maven</li>
-	<li>Necessário java versão 1.8.0 acima</li>
-	<li>Spring STS caso queira editar e executar pela IDE, (recomendado para fins de editação ou mudanças).</li>
+<li>Necessário Maven</li>
+<li>Necessário java versão 1.8.0 acima</li>
+<li>Spring STS caso queira editar e executar pela IDE, (recomendado para fins de editação ou mudanças).</li>
 </ul>
 
 <br>
 
-  <p>API REST para inserção,extração,atualização e eliminação  de informações <br> de dados de clientes quanto os próprios clientes como,ID,idade e nome, tendo integrado informações de IP de quem requisitou quanto a  <br>resposta que indica não somente informações extraídas do banco de dados mais quanto a informação do clima do local onde o mesmo se localiza.</p>
+<p>API REST para inserção,extração,atualização e eliminação  de informações <br> de dados de clientes quanto os próprios clientes como,ID,idade e nome, tendo integrado informações de IP de quem requisitou quanto a  <br>resposta que indica não somente informações extraídas do banco de dados mais quanto a informação do clima do local onde o mesmo se localiza.</p>
 
 
 
@@ -52,29 +52,28 @@ ul {
      <li>*Idade - tipo String </li>
 </ul>
      Depois da inserção poderá fazer as consultas conforme indicado:
+<ul>
+<label> Inserção de clientes</label>
+<br>
+<li>POST /cliente/</li>
+<br>
+<label>Consulta de cliente via ID.</label>
+<br>
+<li>GET /cliente/id</li>
+<br>
+<label> Extrai todas as informações de todos os clientes.</label>
+<li> GET /cliente/</li>
+<br>
+<label> Atualização do cliente</label>
+<li>PUT /cliente/</li>
+<br>
+<label>Apagar o cliente</label>
+<br>
+<li>DELETE /cliente/id</li>
+</ul>
 
-     <ul>
-     	<label> Inserção de clientes</label>
-     	<br>
-     <li>POST /cliente/</li>
-     <br>
-     	<label>Consulta de cliente via ID.</label>
-     	<br>
-     <li>GET /cliente/id</li>
-     <br>
-     <label> Extrai todas as informações de todos os clientes.</label>
-     <li> GET /cliente/</li>
-     <br>
-     	<label> Atualização do cliente</label>
-     <li>PUT /cliente/</li>
-     <br>
-     <label>Apagar o cliente</label>
-     <br>
-     <li>DELETE /cliente/id</li>
-     </ul>
 
-
-     <p>Para fins de teste pode utilizar-se também O POSTMAN, que faz a integração rápida para identação e melhor visualização para requestes, responses em JSON .</p>
+<p>Para fins de teste pode utilizar-se também O POSTMAN, que faz a integração rápida para identação e melhor visualização para requestes, responses em JSON .</p>
 
 
 <h3>Funcionalidades</h3> 
@@ -82,8 +81,8 @@ ul {
 <br>
 
 <ul>
-	<li>Leveza na transmissão de informações via JSON.</li>
-	<li>Operações: Inserções,Alterações,Remoção e Consutlas, podendo ser via ID.</li>
+<li>Leveza na transmissão de informações via JSON.</li>
+<li>Operações: Inserções,Alterações,Remoção e Consutlas, podendo ser via ID.</li>
 </ul>
 
 <br>
@@ -113,5 +112,5 @@ luisgiordano@icloud.com
 <hr>
 MIT license 
 
-	</body>
+</body>
 </html>
