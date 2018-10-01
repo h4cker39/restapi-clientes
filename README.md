@@ -1,12 +1,11 @@
 <html>
 	<head>
 
-
-		<meta charset="UTF-8"/>
+<meta charset="UTF-8"/>
 <style>
 	
-ul {
-  list-style: none;
+ul{
+list-style: none;
 }
 
 </style>
@@ -84,7 +83,7 @@ ul {
 <br>
 <br>
 
-  {
+    {
         "id": "3003334948847",
         "name": "Joãozinho Da Silva",
         "idade": 28,
