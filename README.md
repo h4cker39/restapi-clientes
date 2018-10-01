@@ -1,15 +1,8 @@
 <html>
-	<head>
+<head>
+<meta charset="UTF-8"/>
 
 
-		<meta charset="UTF-8"/>
-<style>
-	
-ul {
-  list-style: none;
-}
-
-</style>
 
 </head>
 <body>
