@@ -130,7 +130,7 @@ luisgiordano@icloud.com
 
 <br>
 
-<h3>Licença</h3>
+<h3>Autor</h3>
 <hr>
 <p>Luis Giordano</p>
 
