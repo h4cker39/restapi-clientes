@@ -126,7 +126,13 @@ luisgiordano@icloud.com
 
 <h3>Testes</h3>
 <hr>
-<p>mvn test ${rest-api}</p>
+<p>Foram utilizados testes JUnit para realizar o teste.</p>
+
+<br>
+
+<h3>Licença</h3>
+<hr>
+<p>Luis Giordano</p>
 
 <br>
 <h3>Licença</h3>
