@@ -10,8 +10,6 @@
 <h2>REST API em Java</h2>
 <hr>
 
-
-
 <h3>Requerimentos</h3>
 <hr>
 
@@ -67,7 +65,7 @@
 </ul>
 
 
-<p>Para fins de teste pode utilizar-se também O POSTMAN, que faz a integração rápida para identação e melhor visualização para requestes, responses em JSON .</p>
+<p>Para fins de teste pode utilizar-se também O POSTMAN, que faz a integração rápida para identação e melhor visualização para requests, responses em JSON .</p>
 
 
 
@@ -126,7 +124,7 @@ luisgiordano@icloud.com
 
 <h3>Testes</h3>
 <hr>
-<p>Foram utilizados testes JUnit para realizar o teste.</p>
+<p>Foram utilizados testes JUnit.</p>
 
 <br>
 
@@ -137,7 +135,7 @@ luisgiordano@icloud.com
 <br>
 <h3>Licença</h3>
 <hr>
-MIT license 
+MIT 
 
 </body>
 </html>
