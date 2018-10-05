@@ -27,11 +27,10 @@ import org.springframework.web.client.RestTemplate;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 /*
- * Luis Carlos Froes Giordano
- * RestApi Spring Boot - PagSeguro UOL
+ * Luis Giordano
+ * RestApi Spring Boot 
  * 24/09/2018
- * Dúvidas - luisgiordano@icloud.com
- * Telefone - 11947204973
+ *
  * */
 @RestController
 public class Controller {
